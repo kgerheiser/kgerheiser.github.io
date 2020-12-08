@@ -6,4 +6,8 @@ layout: home
 exclude: false
 ---
 
-## Words and words and more words
+## This is a title
+
+Words and words and more words
+
+## Another title
