@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: About
 layout: home
-exclude: true
+exclude: false
 ---
 
 ## Words and words and more words
